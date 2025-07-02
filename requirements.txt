@@ -1,0 +1,11 @@
+colorama
+twilio
+messagebird
+vonage
+botocore
+telesign
+telesign
+telnyx
+requests
+
+
